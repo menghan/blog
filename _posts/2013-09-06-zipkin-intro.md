@@ -84,7 +84,7 @@ black-box V.S. annotation-based
 
 # Zipkin
 
-http://www.infoq.com/presentations/Zipkin
+[http://www.infoq.com/presentations/Zipkin][zipkinpresentation]
 
 
 # Zipkin V.S. Dapper
@@ -93,7 +93,7 @@ http://www.infoq.com/presentations/Zipkin
 
 2. initiative vs passive
 
-3. BigTable vs ...
+3. cassandra vs BigTable
 
 
 # Zipkin
@@ -108,3 +108,4 @@ usage
 # END
 
 [zipkin]: http://twitter.github.io/zipkin/
+[zipkinpresentation]: http://www.infoq.com/presentations/Zipkin
