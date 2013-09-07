@@ -1,3 +1,5 @@
 name: Menghan's blog
 markdown: redcarpet
 pygments: true
+description: A blog for menghan
+url: http://blog.menghan.me
