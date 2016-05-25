@@ -1,5 +1,4 @@
 name: Menghan's blog
-markdown: redcarpet
 highlighter: true
 future: true
 description: A blog for menghan
