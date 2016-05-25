@@ -1,5 +1,5 @@
 name: Menghan's blog
-highlighter: true
+highlighter: rouge
 future: true
 description: A blog for menghan
 url: http://blog.menghan.me
